@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local environments
+venv/
+.env
+
+# MLflow logs (auto-generated, heavy)
+mlruns/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code project settings
+.vscode/
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS-generated
+*.swp
+*.bak
